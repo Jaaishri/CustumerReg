@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace CustomerRegistryAssign6
+namespace CustomerRegistryAssign5
 {
     class Customer
     {
